@@ -11,3 +11,7 @@ Création de sort : En développement
 Création de personnage : En développement
 
 Fin de développement : indéterminé
+
+Collaborateur : 
+
+Gabrielle Demazeux
